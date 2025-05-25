@@ -3,38 +3,38 @@
     {
       "id": 1,
       "username": "Aman",
-      "avatar": "../src/assets/man-avatar1.svg",
-      "image": "../src/assets/male-user-img1.svg"
+      "avatar": "/assets/man-avatar1.svg",
+      "image": "/assets/male-user-img1.svg"
     },
     {
       "id": 2,
       "username": "Nikita",
-      "avatar": "../src/assets/female-avatar1.svg",
-      "image": "../src/assets/female-user-img1.svg"
+      "avatar": "/assets/female-avatar1.svg",
+      "image": "/assets/female-user-img1.svg"
     },
     {
       "id": 3,
       "username": "Ajay",
-      "avatar": "../src/assets/man-avatar2.svg",
-      "image": "../src/assets/male-user-img2.svg"
+      "avatar": "/assets/man-avatar2.svg",
+      "image": "/assets/male-user-img2.svg"
     },
     {
       "id": 4,
       "username": "Ankita",
-      "avatar": "../src/assets/female-avatar2.svg",
-      "image": "../src/assets/female-user-img2.svg"
+      "avatar": "/assets/female-avatar2.svg",
+      "image": "/assets/female-user-img2.svg"
     },
     {
       "id": 5,
       "username": "Akshay",
-      "avatar": "../src/assets/man-avatar3.svg",
-      "image": "../src/assets/male-user-img3.svg"
+      "avatar": "/assets/man-avatar3.svg",
+      "image": "/assets/male-user-img3.svg"
     },
     {
       "id": 6,
       "username": "Priya",
-      "avatar": "../src/assets/female-avatar3.svg",
-      "image": "../src/assets/female-user-img3.svg"
+      "avatar": "/assets/female-avatar3.svg",
+      "image": "/assets/female-user-img3.svg"
     }
   ]
 }
